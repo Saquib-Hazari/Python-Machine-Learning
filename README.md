@@ -1,6 +1,4 @@
-# 🎢Rollar Coaster Analysis:
-[![Build Status (main)](https://github.com/username/repo/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/username/repo/actions)
-[![Build Status (feature/nlp-analysis)](https://github.com/username/repo/actions/workflows/build.yml/badge.svg?branch=feature/nlp-analysis)](https://github.com/username/repo/actions)ß
+# 🎢Rollar Coaster Analysis:ß
 
 <img src="CSV/Assets/flipflap.jpg" alt="Roller Coaster" width="500" height="300">
 
